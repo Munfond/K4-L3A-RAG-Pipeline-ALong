@@ -1,0 +1,77 @@
+[
+  {
+    "question": "Thời gian làm bài thi IELTS Writing trên máy tính là bao nhiêu phút?",
+    "expected_answer": "Thời gian làm bài thi IELTS Writing trên máy tính đối với Task 1 và Task 2 là 60 phút.",
+    "expected_context": "Đối với bài thi Viết, thời gian thi IELTS trên máy tính đối với Task 1 và Task 2 là 60 phút. Hệ thống máy tính sẽ tự động đếm số lượng từ cho mỗi bài viết."
+  },
+  {
+    "question": "Thi IELTS trên máy tính tại IDP mất bao lâu để có kết quả?",
+    "expected_answer": "Thí sinh nhận kết quả thi IELTS trên máy tính trong vòng 2 ngày sau khi hoàn thành tất cả kỹ năng.",
+    "expected_context": "Sau khi hoàn thành tất cả kỹ năng của bài thi IELTS, bạn sẽ nhận được kết quả trong vòng 2 ngày."
+  },
+  {
+    "question": "IELTS One Skill Retake (OSR) tại IDP là gì và thời hạn đăng ký là bao lâu?",
+    "expected_answer": "IELTS One Skill Retake cho phép thí sinh thi lại một kỹ năng bất kỳ trong vòng 60 ngày kể từ ngày hoàn thành bài thi ban đầu.",
+    "expected_context": "IELTS One Skill Retake cho phép bạn thi lại một kỹ năng bất kỳ nếu bạn chưa đạt kết quả như mong muốn. Bạn phải đăng ký thi IELTS One Skill Retake trong vòng 60 ngày kể từ ngày hoàn thành bài thi ban đầu."
+  },
+  {
+    "question": "Hệ thống thi IELTS Writing trên máy tính có tính năng đếm từ tự động không?",
+    "expected_answer": "Có, hệ thống máy tính tự động đếm số lượng từ cho mỗi bài viết để giúp thí sinh kiểm soát dung lượng.",
+    "expected_context": "Điểm thuận tiện khi làm bài thi trên máy đó chính là hệ thống máy tính sẽ tự động đếm số lượng từ cho mỗi bài viết, giúp bạn kiểm soát số lượng từ mình đã viết."
+  },
+  {
+    "question": "Thí sinh có được mang theo thiết bị điện tử vào phòng thi IELTS không?",
+    "expected_answer": "Không, tất cả thiết bị điện tử bao gồm điện thoại di động và đồng hồ thông minh phải được tắt và để bên ngoài phòng thi.",
+    "expected_context": "Điện thoại di động, máy nhắn tin và đồng hồ thông minh phải được tắt và để lại cùng với đồ đạc cá nhân của bạn. Nếu mang theo điện thoại di động hoặc thiết bị điện tử bên mình, phần thi của bạn sẽ ngừng ngay lập tức và kết quả thi sẽ bị hủy."
+  },
+  {
+    "question": "Tính từ ghép trong tiếng Anh (compound adjectives) có thể được thành lập theo những cách nào?",
+    "expected_answer": "Tính từ ghép có thể được thành lập từ danh từ + tính từ, tính từ + danh từ, tính từ + phân từ, phó từ + phân từ, danh từ + phân từ.",
+    "expected_context": "Tính từ ghép thường được cấu tạo bằng cách kết hợp hai hoặc nhiều từ lại với nhau, ví dụ: Noun + Adjective, Adverb + Past Participle, Adjective + Noun-ed."
+  },
+  {
+    "question": "Sau động từ choose ta dùng to V hay V-ing?",
+    "expected_answer": "Sau choose thông thường ta sử dụng động từ nguyên mẫu có to (Choose to V) để diễn tả sự lựa chọn hoặc quyết định làm gì.",
+    "expected_context": "Cấu trúc phổ biến: Choose + to V mang nghĩa chọn lựa làm điều gì đó. Ví dụ: She chose to study abroad."
+  },
+  {
+    "question": "Sự khác nhau cơ bản về mặt ngữ pháp giữa although và despite/in spite of là gì?",
+    "expected_answer": "Although đi với một mệnh đề (S + V), còn despite và in spite of đi kèm với danh từ, cụm danh từ hoặc V-ing.",
+    "expected_context": "Although + Clause (S + V), còn Despite / In spite of + Noun Phrase / V-ing mang ý nghĩa mặc dù."
+  },
+  {
+    "question": "Cấu trúc invite thường đi với to V hay V-ing?",
+    "expected_answer": "Cấu trúc invite thường đi với tân ngữ và động từ nguyên mẫu có to: Invite someone to do something (Invite + O + to V).",
+    "expected_context": "Cấu trúc thông dụng: Invite someone to do something mang nghĩa mời ai đó làm gì. Ví dụ: They invited her to attend the workshop."
+  },
+  {
+    "question": "Bài thi IELTS Speaking trên máy tính diễn ra như thế nào?",
+    "expected_answer": "Bài thi Speaking diễn ra trực tiếp 1 kèm 1 cùng giám khảo trong vòng 11-14 phút.",
+    "expected_context": "Khi thi IELTS trên máy tính, bài thi Nói vẫn sẽ được thực hiện trực tiếp cùng giám khảo trong khoảng 11–14 phút."
+  },
+  {
+    "question": "Trong bài thi IELTS Writing Task 1 học thuật, thí sinh cần viết tối thiểu bao nhiêu từ?",
+    "expected_answer": "Thí sinh cần viết tối thiểu 150 từ cho bài thi IELTS Writing Task 1.",
+    "expected_context": "Bài thi IELTS Writing Task 1 yêu cầu thí sinh mô tả, tóm tắt hoặc giải thích thông tin biểu đồ, bản đồ trong tối thiểu 150 từ trong khoảng 20 phút."
+  },
+  {
+    "question": "Trong bài thi IELTS Writing Task 2, thí sinh cần viết tối thiểu bao nhiêu từ?",
+    "expected_answer": "Thí sinh cần viết tối thiểu 250 từ cho bài luận IELTS Writing Task 2.",
+    "expected_context": "Bài thi IELTS Writing Task 2 yêu cầu viết một bài luận học thuật trả lời câu hỏi với độ dài tối thiểu 250 từ trong thời gian khuyến nghị khoảng 40 phút."
+  },
+  {
+    "question": "Bốn tiêu chí chấm điểm bài thi IELTS Writing là gì?",
+    "expected_answer": "Bốn tiêu chí chấm điểm IELTS Writing gồm: Task Achievement/Task Response, Coherence and Cohesion, Lexical Resource, và Grammatical Range and Accuracy.",
+    "expected_context": "Bài thi Writing được chấm dựa trên 4 tiêu chí có trọng số bằng nhau: Task Response (TR), Coherence and Cohesion (CC), Lexical Resource (LR), Grammatical Range and Accuracy (GRA)."
+  },
+  {
+    "question": "Tính năng Highlight và Take note trên máy tính khi thi IELTS Đọc hoạt động ra sao?",
+    "expected_answer": "Thí sinh có thể bôi đen đoạn văn bản và nhấp chuột phải để chọn tính năng Highlight (tô sáng) hoặc Take note (ghi chú).",
+    "expected_context": "Bài thi Đọc trên máy tính có tính năng Highlight (tô sáng) và Take note (ghi chú) bằng cách bôi đen chuột phải."
+  },
+  {
+    "question": "Thí sinh có được phát giấy nháp và bút chì khi thi IELTS trên máy tính không?",
+    "expected_answer": "Có, thí sinh thi trên máy tính vẫn được giám thị phát giấy nháp và bút chì để ghi chú trong quá trình làm bài.",
+    "expected_context": "Ngoài ra, bạn cũng được phát giấy nháp và bút chì để ghi chú theo ý muốn trong suốt buổi thi."
+  }
+]
