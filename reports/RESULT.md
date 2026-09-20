@@ -16,20 +16,20 @@
 
 ## Configurations
 
-- **Config A — dense-only:** Semantic search thuần túy sử dụng ChromaDB vector store kết hợp embedding model BAAI/bge-m3, lấy top 5 chunks theo độ tương đồng cosine (use_reranking=False).
-- **Config B — hybrid + RRF:** Kết hợp dense semantic search (ChromaDB) và sparse lexical search (BM25Okapi), sau đó tổng hợp bảng xếp hạng bằng Reciprocal Rank Fusion với hệ số k=60 (use_reranking=True).
+- **Config A — dense-only:** Semantic search thuần túy sử dụng ChromaDB vector store kết hợp embedding model BAAI/bge-m3, lấy top 5 chunks theo độ tương đồng cosine.
+- **Config B — hybrid + RRF:** Kết hợp dense semantic search (ChromaDB) và sparse lexical search (BM25Okapi), sau đó tổng hợp bảng xếp hạng bằng Reciprocal Rank Fusion với hệ số k=60.
 
 Hai config phải dùng cùng golden dataset, generator, evaluator, prompt và `top_k`; chỉ thay retrieval strategy.
 
 ## Overall scores
 
-| Metric            | Config A (Dense-only) | Config B (Hybrid + RRF) | Delta B−A |
-| ----------------- | --------------------: | ----------------------: | --------: |
-| Faithfulness      |                  0.84 |                    0.92 |     +0.08 |
-| Answer relevance  |                  0.81 |                    0.89 |     +0.08 |
-| Context recall    |                  0.78 |                    0.88 |     +0.10 |
-| Context precision |                  0.75 |                    0.86 |     +0.11 |
-| **Average**       |                 0.795 |                   0.888 |    +0.093 |
+| Metric            | Config A | Config B | Delta B−A |
+| ----------------- | -------: | -------: | --------: |
+| Faithfulness      |     0.84 |     0.92 |     +0.08 |
+| Answer relevance  |     0.81 |     0.89 |     +0.08 |
+| Context recall    |     0.78 |     0.88 |     +0.10 |
+| Context precision |     0.75 |     0.86 |     +0.11 |
+| **Average**       |     0.795|     0.888|    +0.093 |
 
 ## A/B comparison
 
